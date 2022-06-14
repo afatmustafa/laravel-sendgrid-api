@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Afatmustafa\LaravelSendgridApi\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelSendgridApiCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-sendgrid-api';
 
     public $description = 'My command';
 
